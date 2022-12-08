@@ -80,7 +80,24 @@
  
 2. What project management tool will be used?
  - Github Projects
- 
+
+## Git Process
+1. What components of your project will live on GitHub?
+ - Organization, name of organization, project 
+2. How will you share the repository with your teammates?
+ - organization
+3. What is your Git flow?
+ - Separation of concerns
+4. Will you be using a PR review workflow? If so, consider:
+ - Everyone get a chance to review
+5. How many people must review a PR?
+ - 1 with additional help as requested
+6. Who merges PRs?
+ - person that created the PR
+7. How often will you merge?
+- frequently
+8. How will you communicate that it’s time to merge?
+- forghorn (thanks, Katie :)), Slack
  
  
  
